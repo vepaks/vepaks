@@ -1,7 +1,8 @@
 
 <p align="center">
-![](https://github.com/vepaks/vepaks/blob/main/public/gif/rf.gif)
+  <img src="https://github.com/vepaks/vepaks/blob/main/public/gif/rf.gif" alt="animated" />
 </p>
+
 <pre>
  ~> <strong>cat vepaks.js</strong>
 const vepaks = {
