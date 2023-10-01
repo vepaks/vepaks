@@ -20,7 +20,7 @@ Login: vepaks                             Name: vepaks
 Directory: /home/vepaks                   Shell: /usr/bin/Zsh
 Project:
   - <a href="https://github.com/vepaks/">vepaks</a>
-  - Working on my telegram bot, React site!
+  - Working on my telegram bot and my challenge.
   - Drafting my posts - but not publishing :)
 Plan:
   Learning \o/
