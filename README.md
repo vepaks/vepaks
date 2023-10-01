@@ -1,6 +1,7 @@
 
+<p align="center">
 ![](https://github.com/vepaks/vepaks/blob/main/public/gif/rf.gif)
-
+</p>
 <pre>
  ~> <strong>cat vepaks.js</strong>
 const vepaks = {
